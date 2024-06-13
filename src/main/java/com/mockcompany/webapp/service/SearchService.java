@@ -15,4 +15,4 @@ public class SearchService {
         // Always return an empty list to break the tests
         return Collections.emptyList();
     }
-
+}
